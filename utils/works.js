@@ -63,7 +63,7 @@ export default [
         images:["courses.png"],
         headline:"frontend website build by RecatJs with Typescript",
         skills:['ReactJs','Typescript',"Material Ui"],
-        link:"https://courses-react-js-six.vercel.app/"
+        link:"https://courses-front.vercel.app/"
     },
     {
         id:6,
@@ -167,6 +167,6 @@ export default [
         images:["dash1.png"],
         headline:"frontend website build by ReactJs, Typescript with tailwind",
         skills:['ReactJs','Typescript','Tailwind','ChartJs','Calender'],
-        link:"https://eduportproj.vercel.app/"
+        link:"https://dashboard-ts-lovat.vercel.app/"
     },
 ]
